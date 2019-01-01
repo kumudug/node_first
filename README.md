@@ -1,1 +1,3 @@
-# node_first
+# Node.js Hello World
+
+* Run this by `node app.js`
